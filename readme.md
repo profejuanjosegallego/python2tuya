@@ -1,4 +1,4 @@
-Comandos para crear un ambiente virtual de python
+# Comandos para crear un ambiente virtual de python
 
 1. ✅ python -m venv modules --> crea el ambiente virtual
 2. ✅ cd modules --> redirecciono a la carpeta
